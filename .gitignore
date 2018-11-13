@@ -11,6 +11,7 @@
 *.cb
 *.cb2
 .*.lb
+*.ax1
 
 ## Intermediate documents:
 *.dvi
@@ -240,3 +241,5 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
+
+.directory
